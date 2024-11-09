@@ -8,10 +8,6 @@ Veja abaixo uma captura de tela da calculadora em funcionamento:
 
 <img src="preview.png" alt="Preview da Calculadora" width="400px">
 
-## 🚀 Experimente a Calculadora
-
-[Explore o projeto e teste a calculadora online!](#) <!-- Substitua o link "#" com a URL do GitHub Pages ou outro link para a pré-visualização do projeto -->
-
 ## 📋 Funcionalidades
 
 - **Operações Matemáticas Básicas**: Adição, subtração, multiplicação e divisão.
