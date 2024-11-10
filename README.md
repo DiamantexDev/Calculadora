@@ -8,7 +8,7 @@ Veja abaixo uma captura de tela da calculadora em funcionamento:
 
 <img src="preview.png" alt="Preview da Calculadora" width="400px">
 
-Ou, explore a calculadora em [diamantex-calculadora.com](https://diamantexdev.github.io/Calculadora/).
+Ou, explore a calculadora em [diamantex-calculadora.com](https://diamantexdev.github.io/Calculadora/)
 
 
 ## 📋 Funcionalidades
